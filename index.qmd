@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,400,300,700" type="text/css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-# Cozmina M. Secula
+# Cozmina Secula
 
 I spent over 14 years in sales at a large international telecom company, taking on different roles. Currently I'm exploring a transition into data analytics and visualization.
 I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code for projects and <a href="https://quarto.org/" target="_blank">Quarto</a> to create and share presentations, dashboards, and websites.
