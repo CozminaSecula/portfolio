@@ -4,7 +4,7 @@
 
 # Cozmina Secula
 
-This is a collection of projects I worked on while developing my data analytics and visualization skills.
+Here you will find projects I have worked on while developing my data analytics and visualization skills.
 I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code for projects and <a href="https://quarto.org/" target="_blank">Quarto</a> to create and share presentations, dashboards, and websites.
 
 Feel free to get in touch! You can send me an email <span class="social-media-icons">
