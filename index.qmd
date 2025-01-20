@@ -4,7 +4,7 @@
 
 # Cozmina Secula
 
-I spent over 14 years in sales at a large international telecom company, taking on different roles. Currently I'm exploring a transition into data analytics and visualization.
+This is a collection of projects I worked on while developing my data analytics and visualization skills.
 I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code for projects and <a href="https://quarto.org/" target="_blank">Quarto</a> to create and share presentations, dashboards, and websites.
 
 Feel free to get in touch! You can send me an email <span class="social-media-icons">
@@ -56,7 +56,7 @@ Feel free to get in touch! You can send me an email <span class="social-media-ic
 
 #### RoDataViz
 
-The <a href="https://cozminasecula.github.io/RoDataViz/" target="_blank">RoDataViz</a> project, started in October 2024, presents graphics related to Romania’s economy, education, health, and other topics. This personal project aims to explore and analyze data using various visualizations. Most of the data comes from Eurostat and the National Institute of Statistics.
+The <a href="https://cozminasecula.github.io/RoDataViz/" target="_blank">RoDataViz</a> project presents graphics related to Romania’s economy. This personal project aims to explore and analyze data using various visualizations. Most of the data comes from Eurostat and the National Institute of Statistics.
 
 <div style=padding: 10px; border-radius: 0px; display: inline-block;">
 
@@ -94,6 +94,6 @@ The <a href="https://cozminasecula.github.io/RoDataViz/" target="_blank">RoDataV
 
 #### Writing
 
-<a href="https://cozminasecula.github.io/blog/posts.html" target="_blank">Making sense of data </a>. Started in September 2023, this is the space where I store and share some of my work in practicing data analysis and visualization.  
+<a href="https://cozminasecula.github.io/blog/posts.html" target="_blank">Making sense of data </a>. This is the space where I store and share some of my work in practicing data analysis and visualization.  
 
 
