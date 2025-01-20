@@ -1,7 +1,7 @@
 
 ## [Portfolio](https://cozminasecula.github.io/portfolio/)
 
-Here you will find projects I have worked on while developing my data analytics and visualization skills.
+[Here](https://cozminasecula.github.io/portfolio/) you will find projects I have worked on while developing my data analytics and visualization skills.
 I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code for projects and <a href="https://quarto.org/" target="_blank">Quarto</a> to create and share presentations, dashboards, and websites.
 
 ## Work
