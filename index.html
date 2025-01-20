@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ab0bd0fe007d340b6d0dbe3fef3cf627.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
 <p><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,400,300,700" type="text/css"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></p>
 <section id="cozmina-secula" class="level1">
 <h1>Cozmina Secula</h1>
-<p>I spent over 14 years in sales at a large international telecom company, taking on different roles. Currently I’m exploring a transition into data analytics and visualization. I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code for projects and <a href="https://quarto.org/" target="_blank">Quarto</a> to create and share presentations, dashboards, and websites.</p>
+<p>This is a collection of projects I worked on while developing my data analytics and visualization skills. I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code for projects and <a href="https://quarto.org/" target="_blank">Quarto</a> to create and share presentations, dashboards, and websites.</p>
 <p>Feel free to get in touch! You can send me an email <span class="social-media-icons"> <a href="mailto:cozmina.secula@gmail.com"><i class="fa-solid fa-envelope"></i></a> </span> or find me on the internet: <span class="social-media-icons"> <a href="https://www.linkedin.com/in/cozminasecula/"><i class="fa-brands fa-linkedin"></i></a> <a href="https://github.com/CozminaSecula"><i class="fa-brands fa-github"></i></a> <a href="https://bsky.app/profile/cozminasecula.bsky.social"><i class="fa-brands fa-bluesky"></i></a> </span></p>
 <p><br></p>
 <section id="work" class="level2">
@@ -124,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="rodataviz" class="level4">
 <h4 class="anchored" data-anchor-id="rodataviz">RoDataViz</h4>
-<p>The <a href="https://cozminasecula.github.io/RoDataViz/" target="_blank">RoDataViz</a> project, started in October 2024, presents graphics related to Romania’s economy, education, health, and other topics. This personal project aims to explore and analyze data using various visualizations. Most of the data comes from Eurostat and the National Institute of Statistics.</p>
+<p>The <a href="https://cozminasecula.github.io/RoDataViz/" target="_blank">RoDataViz</a> project presents graphics related to Romania’s economy. This personal project aims to explore and analyze data using various visualizations. Most of the data comes from Eurostat and the National Institute of Statistics.</p>
 <div style="padding:" 10px;="" border-radius:="" 0px;="" display:="" inline-block;"="">
 
 <a target="_blank" href="https://cozminasecula.github.io/RoDataViz/grafice.html#Turismul%20%C3%AEn%20luna%20august%202024" style="display: inline-block;">
@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="writing" class="level4">
 <h4 class="anchored" data-anchor-id="writing">Writing</h4>
-<p><a href="https://cozminasecula.github.io/blog/posts.html" target="_blank">Making sense of data </a>. Started in September 2023, this is the space where I store and share some of my work in practicing data analysis and visualization.</p>
+<p><a href="https://cozminasecula.github.io/blog/posts.html" target="_blank">Making sense of data </a>. This is the space where I store and share some of my work in practicing data analysis and visualization.</p>
 
 
 </section>
@@ -249,8 +249,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -361,7 +359,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
