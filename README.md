@@ -6,6 +6,10 @@ I use <a href="https://www.r-project.org/" target="_blank">R</a> to write code f
 
 ## Work
 
+#### Database Implementation
+
+[DigComp Database Implementation](https://github.com/CozminaSecula/digcomp-db). A PostgreSQL database implementation of the European Digital Competence Framework for Citizens (DigComp 2.2) with enhanced features.
+
 #### Graphics & Data Visualization
 
 [Data Visualization Projects](https://github.com/CozminaSecula/dataviz). A portfolio of my personal projects, demonstrating my approach to turning data into visual stories.
