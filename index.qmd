@@ -25,6 +25,13 @@ Feel free to get in touch! You can send me an email <span class="social-media-ic
 
 [DigComp Database Implementation](https://github.com/CozminaSecula/digcomp-db). A PostgreSQL database implementation of the European Digital Competence Framework for Citizens (DigComp 2.2) with enhanced features.
 
+<div style=padding: 10px; border-radius: 0px; display: inline-block;">
+
+<a target="_blank" href="https://github.com/CozminaSecula/digcomp-db" style="display: inline-block;">
+    <img src="imgs/20250612.jpg" style="margin: 5px;">
+</a>
+</div>
+
 <br>
 
 #### Graphics & Data Visualization
