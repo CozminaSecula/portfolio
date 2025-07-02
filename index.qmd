@@ -30,6 +30,7 @@ Feel free to get in touch! You can send me an email <span class="social-media-ic
 <a target="_blank" href="https://github.com/CozminaSecula/digcomp-db" style="display: inline-block;">
     <img src="imgs/20250612.jpg" style="margin: 5px;">
 </a>
+
 </div>
 
 <br>
